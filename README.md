@@ -1,1 +1,1 @@
-This notebook analyses chocolate ratings data to detect outliers and perform various statistical analyses.  
+This notebook analyses chocolate ratings data to detect outliers and perform various statistical analyses. This was completed as part of a maths assignment in a Cambridge Spark data analytics course.  
